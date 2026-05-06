@@ -1,0 +1,5 @@
+# Development dependencies
+-r requirements.txt
+pytest
+black
+flake8
